@@ -1176,3 +1176,4 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.03.27-10.57.56:806][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.03.27-10.57.56:816][  0]LogContentStreaming: Texture pool size now 600 MB
 [2023.03.27-10.57.57:482][  3]LogSlate: Took 0.000580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.27-11.03.33:345][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
