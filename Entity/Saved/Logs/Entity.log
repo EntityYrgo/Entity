@@ -1176,3 +1176,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.27-09.56.52:597][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2023.03.27-09.56.52:599][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.03.27-09.56.53:843][685]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.27-09.58.25:477][764]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.03.27-09.58.25:658][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.27-09.58.25:825][766]LogViewport: Scene viewport resized to 481x282, mode Windowed.
+[2023.03.27-09.58.26:054][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.27-09.58.26:146][780]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.007314 seconds
+[2023.03.27-09.58.26:152][780]LogSerialization: UsePackageTrailer: 'true'
+[2023.03.27-09.58.26:157][780]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.03.27-09.58.26:157][780]LogSavePackage: Moving '../../../../../../Users/jenny/Documents/GitHub/Entity/Entity/Saved/BP_FirstPersonCharacterD930592843D8734C644DC3A49A33C2A1.tmp' to '../../../../../../Users/jenny/Documents/GitHub/Entity/Entity/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.03.27-09.58.26:167][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms
+[2023.03.27-09.58.26:173][780]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.03.27-09.58.26:173][780]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
