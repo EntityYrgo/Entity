@@ -62,6 +62,9 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+/Entity/Entity/Intermediate/ReimportCache
+/Entity/Entity/Intermediate/CachedAssetRegistry.bin
+/Entity/Entity/Saved/AutoScreenshot.png
 
 # Cache files for the editor to use
 DerivedDataCache/*
