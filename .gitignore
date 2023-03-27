@@ -68,3 +68,11 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Entity/Saved/Logs/Entity.log
+Entity/Saved/Logs/Entity-backup-2023.03.27-10.51.42.log
+Entity/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Entity/Saved/Config/CrashReportClient/UECC-Windows-144B153A4F507787CA88A1999EA223EF/CrashReportClient.ini
+Entity/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Entity/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Entity/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+Entity/Intermediate/CachedAssetRegistry.bin
