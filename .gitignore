@@ -79,3 +79,4 @@ DerivedDataCache/*
 /Entity/Saved/Logs/Entity.log
 Entity/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Entity/Saved/Autosaves/PackageRestoreData.json
+Binaries/Win64/Entity.pdb
