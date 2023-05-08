@@ -137,6 +137,7 @@
 *.pfm filter=lfs diff=lfs merge=lfs -text 
 *.pic filter=lfs diff=lfs merge=lfs -text 
 *.pmb filter=lfs diff=lfs merge=lfs -text 
+*.png filter=lfs diff=lfs merge=lfs -text 
 *.poly filter=lfs diff=lfs merge=lfs -text 
 *.ppt filter=lfs diff=lfs merge=lfs -text 
 *.pptx filter=lfs diff=lfs merge=lfs -text 

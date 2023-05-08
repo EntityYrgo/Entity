@@ -2867,10 +2867,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/ColorCorrectRegions/ColorCorrectRegions.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Experimental/Dataflow/Dataflow.uplugin",
 			"Type": "UFS"
 		},
@@ -3128,10 +3124,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/nDisplayModularFeatures/nDisplayModularFeatures.uplugin",
 			"Type": "UFS"
 		},
 		{
